@@ -34,7 +34,7 @@ Link for dataset : https://www.kaggle.com/datasets/rezaali/student-performance-d
 ## Instructions for running the notebook.
 
 Just need to lunch the .ipynb file :)
-
+And you can see our work. Enjoy !
 ---
 
 ##  Technologies
