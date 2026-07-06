@@ -5,14 +5,14 @@
 ### Group: Taiba
 
 **Members**
-- Ahmed EL SAADAWY
-- Azzedine HATEM
-- Habib KAHLAOUI
-- Imad BOULKEMOUN
+- Ahmed EL SAADAWY (25560730041)
+- Azzedine HATEM (25560730047)
+- Habib KAHLAOUI (25560730048)
+- Imad BOULKEMOUN (25560730033)
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project aims to predict whether a student will **pass** or **fail** using supervised machine learning techniques.
 
@@ -25,7 +25,19 @@ The target variable (`passed`) is derived from the final grade (`G3`):
 
 ---
 
-## 🛠 Technologies
+## Dataset source URL and short dataset description.
+
+Link for dataset : https://www.kaggle.com/datasets/rezaali/student-performance-dataset/data
+
+---
+
+## Instructions for running the notebook.
+
+Just need to lunch the .ipynb file :)
+
+---
+
+##  Technologies
 
 - Python
 - Jupyter Notebook
@@ -37,7 +49,7 @@ The target variable (`passed`) is derived from the final grade (`G3`):
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 - Data preprocessing
 - Exploratory Data Analysis (EDA)
